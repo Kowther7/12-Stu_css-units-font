@@ -1,0 +1,22 @@
+.container{
+   
+   background-color:#fffacd ;
+  
+}
+
+
+.fact-1 {
+   font-family: "Lucida Sans Unicode";
+   font-weight: bolder;
+ }
+   
+
+ .fact-2 {
+   font-family:"Lucida Grande";
+   font-size: 24px;
+ }
+   
+
+ .fact-3 {
+   font-family: sans-serif;  
+  line-height: 50px;}
